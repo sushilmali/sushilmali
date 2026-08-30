@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-sushilmali-181717?style=for-the-badge&logo=github)](https://github.com/sushilmali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushil%20Mali-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sushilmali/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome)](https://github.com/sushilmali/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome)](https://sushilmali.github.io/portfolio/)
 
 </div>
 
